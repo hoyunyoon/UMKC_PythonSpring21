@@ -1,7 +1,7 @@
 #Mallikarjun Edara
 #16314907
-ICP3 link-https://github.com/mallikarjun-edara/UMKC_PythonSpring21/new/main/ICP/ICP3
-#**student id**:16314907
+# ICP3 link-https://github.com/mallikarjun-edara/UMKC_PythonSpring21/new/main/ICP/ICP3
+# student id:16314907
 # videolink:
 https://drive.google.com/file/d/1g6jlz4UY4M4Hj2zD_PckJPkt1ahe9mxP/view?usp=sharing
 **Question 1:**
