@@ -26,7 +26,7 @@ X_train = X_train.astype('float32')
 X_test = X_test.astype('float32')
 X_train = X_train / 255.0
 X_test = X_test / 255.0
-
+xp = y_test
 #one hot encoding
 y_train = np_utils.to_categorical(y_train)
 y_test = np_utils.to_categorical(y_test)
@@ -110,7 +110,7 @@ for i in range(1,5):
   plt.imshow(X_test[i,:,:])
   plt.show()
   y=new_model.predict_classes(X_test[[i],:])
-  print("actual",yp[i],"predicted",y[0])
+  print("actual",xp[i],"predicted",y[0])
 
 #3. Visualize Loss and Accuracy using the history object
 plt.plot(history.history['accuracy'])
