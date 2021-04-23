@@ -10,3 +10,4 @@
 <br>For ICP9,shortcut https://github.com/mallikarjun-edara/UMKC_PythonSpring21/tree/main/ICP/ICP9
 <br>For ICP10,shortcut https://github.com/mallikarjun-edara/UMKC_PythonSpring21/tree/main/ICP/ICP10
 <br>For ICP11,shortcut https://github.com/mallikarjun-edara/UMKC_PythonSpring21/tree/main/ICP/ICP11
+<br>For ICP12,shortcut https://github.com/mallikarjun-edara/UMKC_PythonSpring21/tree/main/ICP/ICP12
